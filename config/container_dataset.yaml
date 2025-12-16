@@ -1,0 +1,9 @@
+names:
+  0: dent
+  1: hole
+  2: rusty
+nc: 3
+path: E:\Desktop\课程设计\pythonProject\dataset
+test: images/test
+train: images/train
+val: images/test
